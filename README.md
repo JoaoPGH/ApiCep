@@ -1,16 +1,8 @@
-# \# API C# para busca por CEP e estados
+# API C# para busca por CEP e Estados
 
-# 
+Projeto desenvolvido em C# para realizar buscas por CEP e por siglas de estados.
 
-# Projeto desenvolvido em C# para realizar buscas por CEP e por siglas de estados.
+## Tecnologias
 
-# 
-
-# \## Tecnologias
-
-# 
-
-# \- ASP.NET Core Web API 7.0
-
-# \- Refit
-
+- ASP.NET Core Web API 7.0
+- Refit
