@@ -31,3 +31,6 @@ packages/
 # OS
 .DS_Store
 Thumbs.db
+
+# Configurações locais
+appsettings*.json
